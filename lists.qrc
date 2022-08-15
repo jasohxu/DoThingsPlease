@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>lists/archive</file>
-        <file>lists/current</file>
-    </qresource>
-</RCC>
