@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/check.png</file>
+        <file>icons/list-check.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/trash.png</file>
+    </qresource>
+</RCC>
